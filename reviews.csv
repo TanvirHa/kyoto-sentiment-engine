@@ -1,0 +1,18 @@
+review,sentiment
+"最高に美味しいです！",positive
+"素晴らしい景色でした。",positive
+"とても綺麗で感動しました。",positive
+"親切な店員さんで良かったです。",positive
+"接客が最悪でした。",negative
+"値段が高すぎて最悪です。",negative
+"二度と行きません。",negative
+"待ち時間が長すぎます。",negative
+"普通の味でした。",neutral
+"期待外れです。",negative
+"京都の雰囲気は素敵です。",positive
+"これはすごいです！",positive
+"本当にすごいです。",positive
+"少し高いですが、その価値はあります。", positive
+"価値があります。",positive
+"価値があるお店です。",positive
+"少し高いですが、その価値はあります。",positive
